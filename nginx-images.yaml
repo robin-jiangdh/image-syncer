@@ -1,1 +1,1 @@
-nginx: "ttl.sh/nginx:24h"
+nginx: "ttl.sh/nginx:1d"
