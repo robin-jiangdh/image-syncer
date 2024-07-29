@@ -1,3 +1,3 @@
-registry.cn-hangzhou.aliyuncs.com/hhyasdf:
-  password: ${ACR_PASSWORD}
-  username: hhyatcn
+ttl.sh:
+  password: no_auth
+  username: ttl
