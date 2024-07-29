@@ -19,4 +19,4 @@ jobs:
           version: latest
           proc: 20
         env:
-          ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+          ACR_PASSWORD: no_auth
