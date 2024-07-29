@@ -1,11 +1,5 @@
 name: Sync nginx images
 
-on:
-  workflow_dispatch:
-  schedule:
-    # every day at 7am & 7pm pacific
-    - cron: "0 2,14 * * *"
-
 jobs:
   sync-images:
     runs-on: ubuntu-latest
