@@ -10,4 +10,4 @@ docker.io/bitnami/bitnami-shell:11-debian-11-r11: "ttl.sh/bitnami-shell_11-debia
 docker.io/bitnami/postgres-exporter:0.10.1-debian-11-r18: "ttl.sh/postgres-exporter-0.10.1-debian-11-r18:1d"
 docker.io/tooljet/tooljet:v2.23.0-ee2.9.2: "ttl.sh/tooljet_v2.23.0:1d"
 docker.io/rnwood/smtp4dev:v3: "ttl.sh/rnwood_smtp4dev_v3:1d"
-docker.io/jupyter/datascience-notebook:"ttl.sh/jupyter_datascience-notebook:1d"
+docker.io/jupyter/datascience-notebook:latest:"ttl.sh/jupyter_datascience-notebook:1d"
